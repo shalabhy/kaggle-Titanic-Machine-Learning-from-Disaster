@@ -1,5 +1,5 @@
 # kaggle-Titanic-Machine-Learning-from-Disaster
-use machine learning to predict which passengers survived the tragedy.
+Current rank 763 out of 11360.
 
 Titanic_EDA file contains the Exploratory Data Analysis of the problem
 Titanic_sol shows the training and prediction steps
